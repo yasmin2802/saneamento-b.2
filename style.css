@@ -1,0 +1,36 @@
+body {
+  
+  
+  background-color: rgb(145, 107, 189);
+  }
+
+  h1{
+color: rgb(255, 255, 255);
+text-align: center;
+  }
+
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+  font-size:x-large;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  text-align: right;
+  font-size:x-large;
+
+  
+}
+
+p {
+    color: rgb(255, 255, 255);
+    text-align: left;
+
+}
+
+img {
+width: 185px; 
+height: 155px;
+}
+
